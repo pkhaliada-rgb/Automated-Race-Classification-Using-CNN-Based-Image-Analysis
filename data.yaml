@@ -1,0 +1,23 @@
+
+path: /content/data/car
+train: train/images
+val: valid/images
+
+nc: 15
+
+names:
+  0: traffic_light
+  1: stop_sign
+  2: car
+  3: person
+  4: bicycle
+  5: motorcycle
+  6: bus
+  7: truck
+  8: traffic_sign
+  9: vehicle
+  10: pedestrian
+  11: cyclist
+  12: rider
+  13: road_sign
+  14: barrier
